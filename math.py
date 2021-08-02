@@ -2,11 +2,11 @@
 def add(x,y):
     pass
 #sub implementation
-def subtract(x,y):#on master branch
-    return x-y
+def subtract(x,y):
+    pass
 #mul implementation
 def multiply(x,y):
-    return x*y     #on bug456
+    pass     
 #div implementation
 def divide(x,y):
     pass
